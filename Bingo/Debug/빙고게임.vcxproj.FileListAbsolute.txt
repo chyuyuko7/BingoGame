@@ -1,0 +1,2 @@
+C:\Users\JK\Desktop\C++자료\빙고게임\Debug\빙고게임.exe
+C:\Users\JK\Desktop\C++자료\Bingo\Debug\Bingo.exe
